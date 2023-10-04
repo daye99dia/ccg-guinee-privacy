@@ -3,14 +3,14 @@ Privacy Policy
 
 ### Introduction
 Our Privacy Policy helps you understand what information we collect on ccg-guinee, how ccg-guinee uses it, and what choices you have.
-ccg-guinee has integrated the dounia makert application as a free application. This SERVICE is provided free of charge by ccg-guinee and is intended for use as is.
+ccg-guinee has integrated the ccg-guinee application as a free application. This SERVICE is provided free of charge by ccg-guinee and is intended for use as is.
 If you choose to use our service, you agree to the collection and use of information in connection with this policy. The personal information we collect is used to provide and improve 
 the service. We will not use or share your information with anyone except as described in this Privacy Policy.
 Terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which can be accessed on our website, unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including 
-but not limited to user name, email address, location, photos. The information we request will be retained by us and used as described in this privacy policy.
+but not limited to user name, email address,numeber. The information we request will be retained by us and used as described in this privacy policy.
 The app uses third-party services that may collect information used for your ID.
 
 ### Biscuits
@@ -18,12 +18,10 @@ we do not store any cookies
 
 
 ### Location Information
-Some of the Services may use location information transmitted by users' mobile phones.
- We only use this information as necessary for the designated service.
+we do not use location information
 
 ### Device Information
-We collect information from your device in certain instances. The information will be used for the provision of a better service.
- Further, this information will not include information that identifies the individual user.
+We do not collect information about your device.
 
 ### Service providers
  The personal information I collect is used to provide and improve the service. I will not use or share your information with anyone,
