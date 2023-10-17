@@ -2,8 +2,8 @@ Privacy Policy
 ----------------
 
 ### Introduction
-Our Privacy Policy helps you understand what information we collect on ccg-guinee, how ccg-guinee uses it, and what choices you have.
-ccg-guinee has integrated the ccg-guinee application as a free application. This SERVICE is provided free of charge by ccg-guinee and is intended for use as is.
+Our Privacy Policy helps you understand what information we collect on comptoir commerce groupe-guinee, how comptoir commerce groupe-guinee uses it, and what choices you have.
+ccg-guinee has integrated the comptoir commerce groupe-guinee application as a free application. This SERVICE is provided free of charge by comptoir commerce groupe-guinee and is intended for use as is.
 If you choose to use our service, you agree to the collection and use of information in connection with this policy. The personal information we collect is used to provide and improve 
 the service. We will not use or share your information with anyone except as described in this Privacy Policy.
 Terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which can be accessed on our website, unless otherwise defined in this Privacy Policy.
